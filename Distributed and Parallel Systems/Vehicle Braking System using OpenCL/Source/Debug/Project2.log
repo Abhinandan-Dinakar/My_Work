@@ -1,0 +1,2 @@
+﻿  vadd_c.c
+C:\Users\bheem\Downloads\vadd_c.c(11,10): fatal error C1083: Cannot open include file: 'CL/cl.h': No such file or directory
